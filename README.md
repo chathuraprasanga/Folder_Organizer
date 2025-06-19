@@ -1,4 +1,4 @@
-# Downloads Folder Auto Sorter
+# Folder Organizer
 
 Automatically organize your `~/Downloads` folder by file type (images, videos, documents, etc.) and keep it clean in real-time. This script moves files into subfolders based on their MIME type, shows progress, and optionally monitors the folder for new files.
 
